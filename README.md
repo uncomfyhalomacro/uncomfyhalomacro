@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ReneganRonin is just my player name to almost any game I play.
 - :rocket: [My Steam Profile](https://steamcommunity.com/profiles/76561198316160345/)
 - 📫 How to reach me: renegan.ronin@gmail.com, socvirnyl.estela@g.msuiit.edu.ph
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ReneganRonin&count_private=true&show_icons=true&bg_color=0E1E22&title_color=0a43a7&text_color=ae37e5&icon_color=eb1f22&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&layout=compact&card_width=250&bg_color=0E1E22&title_color=0a43a7&text_color=ae37e5&icon_color=eb1f22&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ReneganRonin&count_private=true&show_icons=true&bg_color=353635&title_color=0a43a7&text_color=ae37e5&icon_color=eb1f22&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&layout=compact&card_width=250&bg_color=353635&title_color=0a43a7&text_color=ae37e5&icon_color=eb1f22&hide_border=true"/>
