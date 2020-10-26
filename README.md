@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - :rocket: [My Steam Profile](https://steamcommunity.com/profiles/76561198316160345/)
 - 📫 How to reach me: renegan.ronin@gmail.com, socvirnyl.estela@g.msuiit.edu.ph
 <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ReneganRonin&count_private=true&show_icons=true&hide_border=true&bg_color=000000&title_color=b1ed93&text_color=ffffff&icon_color=BADA55"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&layout=compact&card_width=250&show_icons=true&hide_border=true&bg_color=000000&title_color=b1ed93&text_color=ffffff&icon_color=BADA55"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ReneganRonin&count_private=true&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=349dc9&text_color=30a178&icon_color=28c95b"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&layout=compact&card_width=250&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=349dc9&text_color=30a178&icon_color=28c95b"/>
