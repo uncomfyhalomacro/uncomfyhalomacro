@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 - :dna: I'm a college student of Mindanao State University - Iligan Institute of Technology. Currently studying Biology.
-- :microscope: I am currently learning Web Development.
+- :microscope: I am currently learning Rust & Web Development.
 - :herb: My next goal would be to learn Data Science and probably Machine Learning.
 - :thinking: My side-goals are making projects and publishing them on GitHub.
 - :scientist: My end goal is to become a Microbiologist that codes and will contribute to research.
