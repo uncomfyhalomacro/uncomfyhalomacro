@@ -1,7 +1,7 @@
 ### Hi there, I am Soc Virnyl S. Estela - AKA ReneganRonin or the-biologist.codes 👋
-[![Website](https://img.shields.io/website?label=thebiologist.codes&style=for-the-badge&url=https%3A%2F%2Fthe-biologist.codes)](https://the-biologist.codes)
-
-
+<!--[![Website](https://img.shields.io/website?label=thebiologist.codes&style=for-the-badge&url=https%3A%2F%2Fthe-biologist.codes)](https://the-biologist.codes)
+-->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ReneganRonin&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ReneganRonin/ReneganRonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ReneganRonin is just my player name to almost any game I play.
 - :rocket: [My Steam Profile](https://steamcommunity.com/profiles/76561198316160345/)
 - 📫 How to reach me: renegan.ronin@gmail.com, socvirnyl.estela@g.msuiit.edu.ph
-<hr>
