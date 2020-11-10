@@ -1,11 +1,12 @@
-### Hi there, I am Soc Virnyl S. Estela - AKA ReneganRonin or the-biologist.codes 👋
+### Hi there, I am Soc Virnyl S. Estela - AKA ReneganRonin 👋
 <!--[![Website](https://img.shields.io/website?label=thebiologist.codes&style=for-the-badge&url=https%3A%2F%2Fthe-biologist.codes)](https://the-biologist.codes)
 -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReneganRonin&theme=vue&count_private=true&hide_border=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&theme=vue&layout=compact&card_width=250&show_icons=true&hide_border=true"/><hr>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&theme=vue&layout=compact&card_width=250&show_icons=true&hide_border=true"/>
+<hr>
 <!--
 **ReneganRonin/ReneganRonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
