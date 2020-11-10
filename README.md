@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: renegan.ronin@gmail.com, socvirnyl.estela@g.msuiit.edu.ph
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReneganRonin&count_private=true&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=349dc9&text_color=30a178&icon_color=28c95b"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&layout=compact&card_width=250&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=349dc9&text_color=30a178&icon_color=28c95b"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
