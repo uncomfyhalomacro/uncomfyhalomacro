@@ -3,7 +3,7 @@
 -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReneganRonin&theme=vue&count_private=true&hide_border=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&theme=vue&layout=compact&card_width=250&show_icons=true&hide_border=true"/>
-<hr>
+<hr><br>
 
 - :dna: I'm a college student of Mindanao State University - Iligan Institute of Technology. Currently studying Biology.
 - :microscope: I am currently learning Rust & Web Development.
