@@ -11,5 +11,5 @@
 - 📫 How to reach me: renegan.ronin@gmail.com, socvirnyl.estela@g.msuiit.edu.ph <hr>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ReneganRonin&theme=dark&count_private=true&hide_border=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&theme=dark&layout=compact&card_width=250&show_icons=true&hide_border=true"/><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ReneganRonin&show_icons=true&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&layout=compact&card_width=250&show_icons=true&show_icons=true&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true"/><br>
