@@ -1,5 +1,5 @@
 ![Profile Views](https://api.ghprofile.me/view?username=ReneganRonin&label=profile_views&color=BADA55)
-### Hi there, I am Soc Virnyl S. Estela - AKA ReneganRonin 👋
+### Hi there, I am Soc Virnyl S. Estela 👋
 - :books: I graduated from Philippine Science High School - Central Mindanao Campus
 - :dna: I'm currently a college student of Mindanao State University - Iligan Institute of Technology. Currently studying Biology.
 - :microscope: I am currently learning Rust & Web Development.
