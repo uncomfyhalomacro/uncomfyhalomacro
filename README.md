@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/follow/uncomfyhalo?color=%23BADA55&label=twitter&logo=twitter&style=for-the-badge)](https://twitter.com/uncomfyhalo)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue&style=for-the-badge&logo=twitter)](https://twitter.com/uncomfyhalo)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:reneganronin@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-Playlist-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/79qMHnbQoayN8NhhwF5bgF?si=UOTFri29QFmZE2Val52LnQ)
 
