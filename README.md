@@ -8,7 +8,10 @@
 - :scientist: My end goal is to become a Microbiologist that codes and will contribute to research.
 - ⚡ Fun fact: ReneganRonin is just my player name to almost any game I play.
 - :rocket: [My Steam Profile](https://steamcommunity.com/profiles/76561198316160345/)
-- 📫 How to reach me: renegan.ronin@gmail.com, socvirnyl.estela@g.msuiit.edu.ph <hr>
+- 📫 How to reach me: renegan.ronin@gmail.com, socvirnyl.estela@g.msuiit.edu.ph 
+ 
+<hr>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReneganRonin&show_icons=true&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&layout=compact&card_width=443&show_icons=true&show_icons=true&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true"/><br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneganRonin&layout=compact&show_icons=true&show_icons=true&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true"/><br>
