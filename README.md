@@ -13,7 +13,7 @@
 ### Favorite Discord Servers I have joined :smiling_imp:
 [![Discord](https://img.shields.io/badge/Python-Discord-informational?style=for-the-badge&logo=discord)](https://discord.com/invite/python)
 [![Discord](https://img.shields.io/badge/Julia-Discord-informational?style=for-the-badge&logo=discord)](https://discord.gg/fvk9Ur7cy9)
-[![Discord](https://img.shields.io/badge/Julia-Discord-informational?style=for-the-badge&logo=discord)](https://discord.gg/YvcW5uQPTP)
+[![Discord](https://img.shields.io/badge/FreeBSD-Discord-informational?style=for-the-badge&logo=discord)](https://discord.gg/YvcW5uQPTP)
 <hr>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReneganRonin&show_icons=true&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true" />
