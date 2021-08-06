@@ -1,6 +1,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/uncomfyhalo)
+[![DEV.TO](https://img.shields.io/badge/DEV.TO-uncomfyhalomacro-grey?logoColor=fbf1c7&color=fbf1c7&logo=dev.to&style=for-the-badge)](https://dev.to/uncomfyhalomacro)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:socvirnyl.estela@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-Playlist-green?color=BADA55&style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/79qMHnbQoayN8NhhwF5bgF?si=UOTFri29QFmZE2Val52LnQ)
+[![Youtube](https://img.shields.io/badge/Youtube-uncomfyhalomacro-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/channel/UCjbnat03FPp0oj0emT80JSA)
 
 ### Hi there, I am Soc Virnyl S. Estela 👋
 - :books: I graduated from Philippine Science High School - Central Mindanao Campus
