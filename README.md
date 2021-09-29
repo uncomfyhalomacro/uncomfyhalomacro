@@ -12,32 +12,9 @@
 - :thinking: My side-goals are making projects and publishing them on GitHub.
 - :scientist: My end goal is to become a Microbiologist that codes and will contribute to research.
 
-### Favorite Discord Servers I have joined :smiling_imp:
+### Favorite Discord Servers I have joined
 [![Discord](https://img.shields.io/badge/Python-Discord-informational?style=for-the-badge&logo=discord)](https://discord.com/invite/python)
 [![Discord](https://img.shields.io/badge/Julia-Discord-informational?style=for-the-badge&logo=discord)](https://discord.gg/fvk9Ur7cy9)
-[![Discord](https://img.shields.io/badge/FreeBSD-Discord-informational?style=for-the-badge&logo=discord)](https://discord.gg/YvcW5uQPTP)
-<hr>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=uncomfyhalomacro&show_icons=true&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncomfyhalomacro&layout=compact&card_width=250&show_icons=true&show_icons=true&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true"/><hr/>
-
-<a href="https://github.com/uncomfyhalomacro/erudite-vim.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uncomfyhalomacro&repo=erudite-vim&show_owner=false&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true"/>
-</a>
-<a href="https://github.com/uncomfyhalomacro/dotfiles.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uncomfyhalomacro&repo=dotfiles&show_owner=false&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true"/>
-</a>
-<a href="https://github.com/uncomfyhalomacro/nixos-dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uncomfyhalomacro&repo=nixos-dotfiles&show_owner=false&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true"/>
-</a>
-<a href="https://github.com/uncomfyhalomacro/JetBrains-Academy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uncomfyhalomacro&repo=JetBrains-Academy&show_owner=false&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true"/>
-</a>
-<a href="https://github.com/uncomfyhalomacro/gurkbot-rust">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uncomfyhalomacro&repo=gurkbot-rust&show_owner=false&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true"/>
-</a>
-<a href="https://github.com/uncomfyhalomacro/Rust_Adventures">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uncomfyhalomacro&repo=Rust_Adventures&show_owner=false&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true"/>
-</a>
 
