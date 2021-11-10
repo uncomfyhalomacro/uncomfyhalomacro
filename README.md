@@ -16,5 +16,6 @@
 [![Discord](https://img.shields.io/badge/Python-Discord-informational?style=for-the-badge&logo=discord)](https://discord.com/invite/python)
 [![Discord](https://img.shields.io/badge/Julia-Discord-informational?style=for-the-badge&logo=discord)](https://discord.gg/fvk9Ur7cy9)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=uncomfyhalomacro&show_icons=true&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true" />
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncomfyhalomacro&layout=compact&card_width=250&show_icons=true&show_icons=true&bg_color=0D1117&title_color=529dff&text_color=00ff80&icon_color=b836ff&hide_border=true"/>
