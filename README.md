@@ -26,7 +26,7 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:socvirnyl.estela@gmail.com)
 
-[![Spotify](https://img.shields.io/badge/Spotify-Playlist-green?color=BADA55&style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/79qMHnbQoayN8NhhwF5bgF?si=UOTFri29QFmZE2Val52LnQ)
+[![Spotify](https://img.shields.io/badge/Spotify-Playlist-green?color=BADA55&style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/5VpI3R3u7de65ig5K4hWcH?si=535e48aacc48477d)
 
 [![Youtube](https://img.shields.io/badge/Youtube-uncomfyhalomacro-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/channel/UCjbnat03FPp0oj0emT80JSA)
 
