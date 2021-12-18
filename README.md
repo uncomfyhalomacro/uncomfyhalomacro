@@ -30,3 +30,21 @@
 
 [![Youtube](https://img.shields.io/badge/Youtube-uncomfyhalomacro-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/channel/UCjbnat03FPp0oj0emT80JSA)
 
+### PGP
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEYbnq1xYJKwYBBAHaRw8BAQdAxWQqngS1vyt6l8Hn8DUaLTt17FjfTbx85ZjP
+KfJwnLW0N1NvYyBWaXJueWwgRXN0ZWxhIChHaXRodWIpIDxzb2N2aXJueWwuZXN0
+ZWxhQGdtYWlsLmNvbT6IlAQTFgoAPBYhBGn4TvRlRJOx2Jy1+2Z3K8Z/wAGFBQJh
+uerXAhsDBQsJCAcCAyICAQYVCgkICwIEFgIDAQIeBwIXgAAKCRBmdyvGf8ABhR6X
+APwKHCVNnSASl1WnlD/9yuFyZ4jhCb5e/YdLXsHCYbSYPgD9E2G8tukfnOBCRWik
+wy0ahUJxBciHMmpEIne2WZKjsAu4OARhuerXEgorBgEEAZdVAQUBAQdATb2iqmOZ
+1eRQXb69F50HC2bKREAsMVUXxAdSfYvCZF4DAQgHiHgEGBYKACAWIQRp+E70ZUST
+sdictftmdyvGf8ABhQUCYbnq1wIbDAAKCRBmdyvGf8ABhSjiAQDi6ICYVbOnYQNw
+Y5T5HzZICdD5fztCgqFBkGYJwG0R6AEAgfA6hqYXJPJXXpm8+at5xAOnEYY6c43R
+sEOToTZsrgM=
+=rVX2
+-----END PGP PUBLIC KEY BLOCK-----
+```
