@@ -1,12 +1,8 @@
 
 ### Hi there, I am Soc Virnyl S. Estela 👋
 
-- :books: I graduated from Philippine Science High School - Central Mindanao Campus
-- :dna: I'm currently a college student of Mindanao State University - Iligan Institute of Technology. Currently studying Biology.
-- :microscope: I am currently learning Julia.
-- :herb: My next goal would be to learn Bioinformatics.
-- :thinking: My side-goals are making projects and publishing them on GitHub.
-- :scientist: My end goal is to become a Microbiologist that codes and will contribute to research.
+- :dna: I'm currently a college student
+- :scientist: My end goal is to become a Microbiologist that codes and will contribute to research and opensource software.
 
 ### Favorite Languages (either I want to learn or already know)
 <a href="https://julialang.org"><img height="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"></a>
