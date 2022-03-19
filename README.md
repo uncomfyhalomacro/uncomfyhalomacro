@@ -1,32 +1,29 @@
 
-### Hi there, I am Soc Virnyl S. Estela 👋
-
-- :dna: I'm currently a college student
-- :scientist: My end goal is to become a Microbiologist that codes and will contribute to research and opensource software.
-
-### Favorite Languages (either I want to learn or already know)
+<h1 align="center">Hi there, I am Soc Virnyl S. Estela 👋</h1>
+<div align="center" 
+<img src="https://c.tenor.com/6tajpXmSj28AAAAC/anime-smile.gif"></img>
+</div>
+<h1 align="center">Favorite Languages</h1>
+<div align="center">
 <a href="https://julialang.org"><img height="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"></a>
 <a href="http://www.lua.org/"><img height="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"></a>
 <a href="http://rust-lang.org"><img height="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"></a>
+</div>
+<h1 align="center">Favorite Discord Servers</h1>
+<p align="center">
+<a href="https://discord.com/invite/python"><img src="https://img.shields.io/badge/Python-Discord-informational?style=for-the-badge&logo=discord" /></a>
+<a href="https://discord.gg/fvk9Ur7cy9"><img src="https://img.shields.io/badge/Julia-Discord-informational?style=for-the-badge&logo=discord" /></a>
+</p>
 
-### Favorite Discord Servers I have joined
+<h1 align="center">Socials</h1>
+<div align="center">
+<a href="https://twitter.com/uncomfyhalo"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" /></a>
+<a href="https://dev.to/uncomfyhalomacro"><img src="https://img.shields.io/badge/DEV.TO-uncomfyhalomacro-grey?logoColor=fbf1c7&color=fbf1c7&logo=dev.to&style=for-the-badge" /></a>
+</div>
 
-[![Discord](https://img.shields.io/badge/Python-Discord-informational?style=for-the-badge&logo=discord)](https://discord.com/invite/python)
-[![Discord](https://img.shields.io/badge/Julia-Discord-informational?style=for-the-badge&logo=discord)](https://discord.gg/fvk9Ur7cy9)
+<h1 align="center">PGP - security LARPing</h1>
 
-### Socials
-
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/uncomfyhalo)  
-
-[![DEV.TO](https://img.shields.io/badge/DEV.TO-uncomfyhalomacro-grey?logoColor=fbf1c7&color=fbf1c7&logo=dev.to&style=for-the-badge)](https://dev.to/uncomfyhalomacro)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:socvirnyl.estela@gmail.com)
-
-[![Spotify](https://img.shields.io/badge/Spotify-Playlist-green?color=BADA55&style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/5VpI3R3u7de65ig5K4hWcH?si=535e48aacc48477d)
-
-[![Youtube](https://img.shields.io/badge/Youtube-uncomfyhalomacro-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/channel/UCjbnat03FPp0oj0emT80JSA)
-
-### PGP
+<div align="center">
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -44,3 +41,5 @@ sEOToTZsrgM=
 =rVX2
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+</div>
