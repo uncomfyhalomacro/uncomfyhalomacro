@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I am Soc Virnyl S. Estela 👋</h1>
-<div align="center" 
-<img src="https://c.tenor.com/6tajpXmSj28AAAAC/anime-smile.gif"></img>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/66054069/159101138-67ff5ecd-0a69-4d55-a91c-ceb0ee046a72.gif"></img>
 </div>
 <h1 align="center">Favorite Languages</h1>
 <div align="center">
