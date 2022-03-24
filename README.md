@@ -19,6 +19,8 @@
 <div align="center">
 <a href="https://twitter.com/uncomfyhalo"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" /></a>
 <a href="https://dev.to/uncomfyhalomacro"><img src="https://img.shields.io/badge/DEV.TO-uncomfyhalomacro-grey?logoColor=fbf1c7&color=fbf1c7&logo=dev.to&style=for-the-badge" /></a>
+<a href="mailto:socvirnyl.estela@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a>
+
 </div>
 
 <h1 align="center">PGP - security LARPing</h1>
