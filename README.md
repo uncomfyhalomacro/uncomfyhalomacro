@@ -24,3 +24,7 @@
 
 </div>
 <div align="center"><a href="https://www.buymeacoffee.com/uncomfy"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="140"></a></div>
+
+# Migrated to [Codeberg](https://codeberg.org/uncomfyhalomacro)
+
+Account is now for contributions for projects that exists on Github. No new projects will be added. Some will migrate if ever I want to, however.
