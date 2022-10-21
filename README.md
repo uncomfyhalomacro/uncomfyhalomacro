@@ -10,5 +10,5 @@ I am also in the following forges:
 ## Note 
 
 I do not use GitHub anymore for hosting some of my projects because of the GitHub Copilot controversy. I mainly use Codeberg to host my projects.
-I do still use it for existing projects that I have collaborated before so feel free to go there.
+I do still use it for existing projects that I have collaborated before and/or possibly, for job related projects so feel free to go there.
 
