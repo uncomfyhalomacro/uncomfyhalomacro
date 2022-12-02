@@ -9,7 +9,7 @@ I am also in the following forges:
 
 ## Socials
 
-- <a rel="me" href="https://types.pl/@uncomfyhalomacro">uncomfyhalomacro@types.pl</a>
+- <a rel="me" href="https://types.pl/@uncomfyhalomacro">uncomfyhalomacro\@types.pl</a>
 - Also in the following discord servers: openSUSE, Humans of Julia.
 
 
