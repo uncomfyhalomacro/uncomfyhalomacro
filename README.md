@@ -12,5 +12,12 @@ I am also in the following forges:
 - <a rel="me" href="https://types.pl/@uncomfyhalomacro">types.pl/uncomfyhalomacro</a>
 - Also in the following discord servers: openSUSE, Humans of Julia.
 
+## Projects You May Want to Contribute
+
+My schedule now allows me to do open source projects
+
+- https://codeberg.org/uncomfyhalomacro/rypper
+- https://github.com/uncomfyhalomacro/SBOL3.jl
+
 
 
