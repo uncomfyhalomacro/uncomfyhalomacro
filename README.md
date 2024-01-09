@@ -12,5 +12,6 @@ I am also in the following forges:
 - <a rel="me" href="https://julialang.social/@uncomfyhalomacro">julialang.social/uncomfyhalomacro</a>
 - Also in the following discord servers: openSUSE, Humans of Julia.
 
+## Employability
 
-
+**OPEN TO WORK**
