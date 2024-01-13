@@ -23,13 +23,14 @@ I am part of various communities:
 
 ## 📋 Currently learning
 
-- Golang
+- [Golang](https://go.dev)
 - Thorsten Ball's book "Writing Interpreter in Go"
+- [RDF](https://www.w3.org/RDF/) for side projects
 
 # 🤗 Open Source Experience
 
 - Rewriting the [OpenBuildService service cargo vendor](https://github.com/openSUSE/obs-service-cargo_vendor) in Rust.
-- Packaging 20+ packages in [openSUSE Build Service](https://build.opensuse.org/users/uncomfyhalomacro).
+- Packaging 20+ software in [openSUSE Build Service](https://build.opensuse.org/users/uncomfyhalomacro).
 
 # 💼 Open to work
 
