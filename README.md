@@ -3,6 +3,8 @@
 Hi there! I am Soc, a 24 yr old aiming to become a software engineer in
 order to actively contribute to the open source ecosystem.
 
+I also post blogs sometimes at [my website](https://uncomfyhalomacro.pl).
+
 You can connect with me through the following:
 - 📧 Email — contact@uncomfyhalomacro.pl
 - 🪧 Discord — uncomfyhalomacro
