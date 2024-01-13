@@ -10,7 +10,7 @@ You can connect with me through the following:
 - 🪧 Discord — uncomfyhalomacro
 
 I am part of various communities:
-- 📦 [WayCrate](https://github.com/uncomfyhalomacro)
+- 📦 [WayCrate](https://waycrate.github.io/)
 - 🫂 [Humans of Julia](https://discord.gg/C5h9D4j)
 - 🦎 [openSUSE](https://discord.gg/opensuse)
 
