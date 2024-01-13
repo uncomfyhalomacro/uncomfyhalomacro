@@ -1,17 +1,37 @@
+# ⏫ Soc Virnyl S. Estela
 
-# Soc Virnyl S. Estela
+I am part of various communities:
+- 📦 [WayCrate](https://github.com/uncomfyhalomacro)
+- 🫂 [Humans of Julia](https://discord.gg/C5h9D4j)
+- 🦎 [openSUSE](https://discord.gg/opensuse)
 
-I am also in the following forges:
+# 🧰 Technologies
 
-- https://codeberg.org/uncomfyhalomacro
-- https://git.sr.ht/~uncomfy
-- https://git.sr.ht/~uncomfyhalomacro ← i accidentally deleted my key for this before i can backup. 😕
+## 💻 Languages
 
-## Socials
+- ⚙️ Rust
+- 🟣 Julia
+- 🐍 Python
 
-- <a rel="me" href="https://julialang.social/@uncomfyhalomacro">julialang.social/uncomfyhalomacro</a>
-- Also in the following discord servers: openSUSE, Humans of Julia.
+## 🛠️  Tools
 
-## Employability
+- 🐧 Linux (openSUSE Tumbleweed)
+- 🐚 Zsh
+- 🐚 Bash
+- 🪟 Zellij
+- ✍️ Kakoune
 
-**OPEN TO WORK**
+# Open Source Experience
+
+- Rewriting the [OpenBuildService service cargo vendor](https://github.com/openSUSE/obs-service-cargo_vendor) in Rust.
+- Packaging 20+ packages in [openSUSE Build Service](https://build.opensuse.org/users/uncomfyhalomacro).
+
+# 💼 Open to work
+
+I am currently looking for ***entry-level*** roles in software engineering.
+
+I am familiar with [Rust](https://rust-lang.org), [Python](https://python.org) and [Julia](https://julialang.org).
+
+My interests are distributing and packaging software, and software automation to easily
+accomplish tasks. I am also familiar with writing RPM specfiles.
+
