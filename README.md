@@ -40,11 +40,13 @@ to easily accomplish tasks. I am also familiar with writing RPM specfiles. 😄
 - 🪟 Zellij
 - ✍️ Kakoune
 
-## 📋 Currently learning
+## 📋 Learning
 
-- [Golang](https://go.dev)
-- Thorsten Ball's book "Writing Interpreter in Go"
-- [RDF](https://www.w3.org/RDF/) for side projects
+- C (Currently)
+- [Golang](https://go.dev) (Currently)
+- Thorsten Ball's book "Writing Interpreter in Go" (Currently)
+- [Elixir](https://elixir-lang.org/) (Soon)
+- [RDF](https://www.w3.org/RDF/) for side projects (Soon)
 
 # 🤗 Open Source Experience
 
