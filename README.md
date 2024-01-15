@@ -55,6 +55,7 @@ to easily accomplish tasks. I am also familiar with writing RPM specfiles. 😄
 - CLI application using [Go](https://go.dev)
 - Wayland client using C
 - Possibly a programming language written in Go after reading "Wriing Interpreter in Go"
+- Experimenting HTMX with [Zola](https://getzola.org/)
 
 # 🤗 Open Source Experience
 
