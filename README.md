@@ -45,8 +45,16 @@ to easily accomplish tasks. I am also familiar with writing RPM specfiles. 😄
 - C (Currently)
 - [Golang](https://go.dev) (Currently)
 - Thorsten Ball's book "Writing Interpreter in Go" (Currently)
+- [HTMX](https://htmx.org/) (Soon)
 - [Elixir](https://elixir-lang.org/) (Soon)
 - [RDF](https://www.w3.org/RDF/) for side projects (Soon)
+
+### Planned projects
+
+- Portfolio website using [HTMX](https://htmx.org/)
+- CLI application using [Go](https://go.dev)
+- Wayland client using C
+- Possibly a programming language written in Go after reading "Wriing Interpreter in Go"
 
 # 🤗 Open Source Experience
 
