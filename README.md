@@ -59,8 +59,8 @@ to easily accomplish tasks. I am also familiar with writing RPM specfiles. 😄
 
 # 🤗 Open Source Experience
 
-- Rewriting the [OpenBuildService service cargo
+- Rewritten the [OpenBuildService service cargo
 vendor](https://github.com/openSUSE/obs-service-cargo_vendor) in Rust.
-- Packaging 20+ software in [openSUSE Build
+- Packaged 20+ software in [openSUSE Build
 Service](https://build.opensuse.org/users/uncomfyhalomacro).
 
