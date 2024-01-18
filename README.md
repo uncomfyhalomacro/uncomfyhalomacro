@@ -18,6 +18,14 @@ I am part of various communities:
 
 I am currently looking for ***entry-level*** roles in software engineering.
 
+I am also open for other roles such as IT related:
+- Systems Administration
+- Software Advocate
+- Software Technologist
+
+Since it is *entry-level*, I hope I get the necessary and sufficient training
+to undertake my assigned role. 🫂
+
 I am familiar with [Rust](https://rust-lang.org), [Python](https://python.org)
 and [Julia](https://julialang.org).
 
