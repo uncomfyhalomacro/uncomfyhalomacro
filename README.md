@@ -1,7 +1,19 @@
 # ⏫ Soc Virnyl S. Estela
 
-Hi there! I am Soc, a 24 yr old aiming to become a software engineer in
-order to actively contribute to the open source ecosystem.
+I have a passion for technology and biology, hoping to build a career both
+as a bioinformatician, a technologist and a software engineer.
+
+As a science instructor at Misamis University, I teach biology courses to
+undergraduate students, using interactive and engaging methods to foster
+their curiosity and passion for science.
+
+I am a proud member of the openSUSE community, where I maintain 22+ packages
+that include tools for my organization. I have been involved in open source
+software development since 2020, starting with Debian as my first Linux
+distribution. I believe in the spirit of open source and its potential to
+advance scientific discovery and innovation. My goal is to pursue a career in
+software development and engineering or bioinformatics, where I can combine
+my expertise in microbiology and programming to solve real-world problems.
 
 I also post blogs sometimes at [my website](https://uncomfyhalomacro.pl).
 
