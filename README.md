@@ -68,6 +68,7 @@ to easily accomplish tasks. I am also familiar with writing RPM specfiles. 😄
 - [HTMX](https://htmx.org/) (Soon)
 - [Elixir](https://elixir-lang.org/) (Soon)
 - [RDF](https://www.w3.org/RDF/) for side projects (Soon)
+- Ansible (Currently)
 
 ### Planned projects
 
