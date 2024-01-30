@@ -1,7 +1,7 @@
 # ⏫ Soc Virnyl S. Estela
 
-I have a passion for technology and biology, hoping to build a career both
-as a bioinformatician, a technologist and a software engineer.
+I have a passion for technology and biology, hoping to build a career in
+software engineering in various fields.
 
 As a science instructor at a private university, I teach biology courses to
 undergraduate students, using interactive and engaging methods to foster
