@@ -3,10 +3,6 @@
 I have a passion for technology and biology, hoping to build a career in
 software engineering in various fields.
 
-As a science instructor at a private university, I teach biology courses to
-undergraduate students, using interactive and engaging methods to foster
-their curiosity and passion for science.
-
 I am a proud member of the openSUSE community, where I maintain 22+ packages
 that include tools for my organization. I have been involved in open source
 software development since 2020, starting with Debian as my first Linux
@@ -26,24 +22,6 @@ I am part of various communities:
 - 🫂 [Humans of Julia](https://discord.gg/C5h9D4j)
 - 🦎 [openSUSE](https://discord.gg/opensuse)
 
-# 💼 Open to work
-
-I am currently looking for ***entry-level*** roles in software engineering.
-
-I am also open for other roles such as IT related:
-- Systems Administration
-- Software Advocate
-- Software Technologist
-
-Since it is *entry-level*, I hope I get the necessary and sufficient training
-to undertake my assigned role. 🫂
-
-I am familiar with [Rust](https://rust-lang.org), [Python](https://python.org)
-and [Julia](https://julialang.org).
-
-My interests are distributing and packaging software, and software automation
-to easily accomplish tasks. I am also familiar with writing RPM specfiles. 😄
-
 # 🧰 Technologies
 
 ## 💻 Languages
@@ -59,16 +37,6 @@ to easily accomplish tasks. I am also familiar with writing RPM specfiles. 😄
 - 🐚 Bash
 - 🪟 Zellij
 - ✍️ Kakoune
-
-## 📋 Learning
-
-- C (Currently)
-- [Golang](https://go.dev) (Currently)
-- Thorsten Ball's book "Writing Interpreter in Go" (Currently)
-- [HTMX](https://htmx.org/) (Soon)
-- [Elixir](https://elixir-lang.org/) (Soon)
-- [RDF](https://www.w3.org/RDF/) for side projects (Soon)
-- Ansible (Currently)
 
 ### Planned projects
 
