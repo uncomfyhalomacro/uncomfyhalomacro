@@ -9,7 +9,7 @@ software development since 2020, starting with Debian as my first Linux
 distribution. I believe in the spirit of open source and its potential to
 advance scientific discovery and innovation.
 
-I also post blogs sometimes at [my website](https://uncomfyhalomacro.pl).
+I also post blogs, rants and notes sometimes on [my website](https://uncomfyhalomacro.pl).
 
 You can connect with me through the following:
 - 📧 Email — contact@uncomfyhalomacro.pl
