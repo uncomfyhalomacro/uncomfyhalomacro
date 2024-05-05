@@ -36,14 +36,6 @@ I am part of various communities:
 - 🪟 Zellij
 - ✍️ Kakoune
 
-### Planned projects
-
-- Portfolio website using [HTMX](https://htmx.org/)
-- CLI application using [Go](https://go.dev)
-- Wayland client using C
-- Possibly a programming language written in Go after reading "Wriing Interpreter in Go"
-- Experimenting HTMX with [Zola](https://getzola.org/)
-
 # 🤗 Open Source Experience
 
 - Rewritten the [OpenBuildService service cargo
