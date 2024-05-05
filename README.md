@@ -7,9 +7,7 @@ I am a proud member of the openSUSE community, where I maintain 22+ packages
 that include tools for my organization. I have been involved in open source
 software development since 2020, starting with Debian as my first Linux
 distribution. I believe in the spirit of open source and its potential to
-advance scientific discovery and innovation. My goal is to pursue a career in
-software development and engineering or bioinformatics, where I can combine
-my expertise in microbiology and programming to solve real-world problems.
+advance scientific discovery and innovation.
 
 I also post blogs sometimes at [my website](https://uncomfyhalomacro.pl).
 
