@@ -15,10 +15,10 @@ You can connect with me through the following:
 - 📧 Email — contact@uncomfyhalomacro.pl
 - 🪧 Discord — uncomfyhalomacro
 
-I am part of various communities:
-- 📦 [WayCrate](https://waycrate.github.io/)
-- 🫂 [Humans of Julia](https://discord.gg/C5h9D4j)
-- 🦎 [openSUSE](https://discord.gg/opensuse)
+I am member of various communities:
+- 📦 [WayCrate](https://waycrate.github.io/) ***pseudo**-admin*
+- 🫂 [Humans of Julia](https://discord.gg/C5h9D4j) *retired admin*
+- 🦎 [openSUSE](https://discord.gg/opensuse) *active contributor and packager/package maintainer*
 
 # 🧰 Technologies
 
@@ -27,14 +27,27 @@ I am part of various communities:
 - ⚙️ Rust
 - 🟣 Julia
 - 🐍 Python
+- 👍 Typescript and Javascript
 
-## 🛠️  Tools
+## Web Frameworks and Tools
+
+- 🦖 ExpressJS
+- ⚛️ ReactJS
+- 🩹 ViteJS
+- ⏭️ NextJS
+- 🤤 Redux Toolkit
+
+## 🛠️  General Developer Tools
 
 - 🐧 Linux (openSUSE Tumbleweed)
 - 🐚 Zsh
 - 🐚 Bash
 - 🪟 Zellij
 - ✍️ Kakoune
+
+## Planning to Learn
+- 🩸 Elixir
+- 🌈 Gleam
 
 # 🤗 Open Source Experience
 
