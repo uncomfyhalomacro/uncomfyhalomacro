@@ -20,6 +20,10 @@ I am member of various communities:
 - 🫂 [Humans of Julia](https://discord.gg/C5h9D4j) *retired admin*
 - 🦎 [openSUSE](https://discord.gg/opensuse) *active contributor and packager/package maintainer*
 
+# Resume
+
+See [cv/microbio-cv.pdf](./cv/microbio-cv.pdf) and [cv/tech-cv.pdf](./cv/tech-cv.pdf)
+
 # 🧰 Technologies
 
 ## 💻 Languages
