@@ -12,7 +12,7 @@ advance scientific discovery and innovation.
 I also post blogs, rants and notes sometimes on [my website](https://uncomfyhalomacro.pl).
 
 You can connect with me through the following:
-- 📧 Email — contact@uncomfyhalomacro.pl
+- 📧 Email - uncomfyhalomacro@opensuse.org
 - 🪧 Discord — uncomfyhalomacro
 
 I am member of various communities:
