@@ -22,7 +22,7 @@ I am member of various communities:
 
 # CV
 
-See [cv/microbio-cv.pdf](./cv/microbio-cv.pdf) and [cv/tech-cv.pdf](./cv/tech-cv.pdf)
+See [microbio-cv](https://uncomfyhalomacro.pl/microbio-cv.pdf) and [tech-cv](https://uncomfyhalomacro.pl/tech-cv.pdf)
 
 # 🧰 Technologies
 
