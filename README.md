@@ -15,8 +15,9 @@ advance scientific discovery and innovation.
 I also post blogs, rants and notes sometimes on [my website](https://uncomfyhalomacro.pl).
 
 You can connect with me through the following:
-- 📧 Email - uncomfyhalomacro@opensuse.org
+- 📧 Email - uncomfyhalomacro@opensuse.org, contact@uncomfyhalomacro.pl, socvirnylsestela@gmail.com
 - 🪧 Discord — uncomfyhalomacro
+- 📬 Signal - <https://signal.me/#eu/2HXmicUGauVas7bp_wTU2Qwg08Ldza_K4uOt3emtYnAs3Av6kCpA-6WD9CytRr7N>
 
 I am member of various communities:
 - 📦 [WayCrate](https://waycrate.github.io/) ***pseudo**-admin*
