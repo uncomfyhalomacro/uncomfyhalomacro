@@ -1,4 +1,7 @@
-# ⏫ Soc Virnyl S. Estela
+<a href="https://www.boot.dev/u/uncomfyhalomacro"><p align="center">
+  <img src="https://api.boot.dev/v1/users/public/a1589768-2957-4139-987b-f4e8c29123a9/thumbnail" >
+</p>
+</a>
 
 I have a passion for technology and biology, hoping to build a career in
 software engineering in various fields.
@@ -20,9 +23,7 @@ I am member of various communities:
 - 🫂 [Humans of Julia](https://discord.gg/C5h9D4j) *retired admin*
 - 🦎 [openSUSE](https://discord.gg/opensuse) *active contributor and packager/package maintainer*
 
-# CV
-
-See [microbio-cv](https://uncomfyhalomacro.pl/microbio-cv.pdf) and [tech-cv](https://uncomfyhalomacro.pl/tech-cv.pdf)
+See my [tech-cv](https://uncomfyhalomacro.pl/tech-cv.pdf).
 
 # 🧰 Technologies
 
@@ -32,6 +33,8 @@ See [microbio-cv](https://uncomfyhalomacro.pl/microbio-cv.pdf) and [tech-cv](htt
 - 🟣 Julia
 - 🐍 Python
 - 👍 Typescript and Javascript
+- 🦫 Golang
+- 🍡 SQL with SQLite and PostgreSQL
 
 ## Web Frameworks and Tools
 
@@ -48,10 +51,6 @@ See [microbio-cv](https://uncomfyhalomacro.pl/microbio-cv.pdf) and [tech-cv](htt
 - 🐚 Bash
 - 🪟 Zellij
 - ✍️ Kakoune
-
-## Planning to Learn
-- 🩸 Elixir
-- 🌈 Gleam
 
 # 🤗 Open Source Experience
 
