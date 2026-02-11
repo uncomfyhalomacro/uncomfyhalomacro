@@ -1,3 +1,5 @@
+### About Me
+
 Hello there,
 
 I am **Soc Virnyl Estela**, also known by the tech community _uncomfy_ or _uncomfyhalomacro_.
@@ -24,3 +26,8 @@ links:
 
 To contact me, you can email me at `contact@uncomfyhalomacro.pl`.
 
+### Software
+
+- [roast](https://codeberg.org/Rusty-Geckos/roast)
+- [obs-service-cargo](https://github.com/openSUSE-Rust/obs-service-cargo)
+- [twenty-five-and-five](https://codeberg.org/uncomfyhalomacro/twenty-five-and-five)
