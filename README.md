@@ -2,7 +2,7 @@
 
 Hello there,
 
-I am **Soc Virnyl Estela**, also known by the tech community _uncomfy_ or _uncomfyhalomacro_.
+I am **Soc Virnyl Estela**, also known by the tech community as _uncomfy_ or _uncomfyhalomacro_.
 
 I've been a self-taught developer since 2019. It started with a very slow laptop
 that I needed to finish my thesis. So my solution to that was to install Debian
